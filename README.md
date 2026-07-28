@@ -48,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## String
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Sorting
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
