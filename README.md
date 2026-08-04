@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3731-find-missing-elements](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
