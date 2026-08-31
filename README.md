@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0051-n-queens) |
 ## Math
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/RaviRajChoubey/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
